@@ -1,0 +1,25 @@
+# Kaggle datasets are kept locally and must not be committed.
+data/
+
+# Local configuration and secrets.
+.env
+
+# Python runtime files.
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.coverage
+
+# Virtual environments.
+.venv/
+venv/
+
+# Service logs and local artifacts.
+*.log
+logs/
+
+# Tests are kept locally for development and are not submitted.
+tests/
+
+# Local development notes are not part of the submitted project.
+docs/model_analysis.md

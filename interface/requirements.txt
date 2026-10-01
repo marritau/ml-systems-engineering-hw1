@@ -1,0 +1,4 @@
+kafka-python==2.2.6
+pandas==2.2.3
+psycopg2-binary==2.9.10
+streamlit==1.45.0

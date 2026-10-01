@@ -1,0 +1,11 @@
+transaction_time,merch,cat_id,amount,name_1,name_2,gender,street,one_city,us_state,post_code,lat,lon,population_city,jobs,merchant_lat,merchant_lon
+2020-02-10 09:15,example_market,grocery_net,24.90,Alex,Smith,M,101 Example Street,Springfield,IL,62701,39.8017,-89.6436,114394,Analyst,39.8120,-89.6500
+2020-02-10 18:40,example_fitness,health_fitness,89.50,Maria,Johnson,F,202 Sample Avenue,Austin,TX,78701,30.2672,-97.7431,964254,Engineer,30.2800,-97.7500
+2020-02-11 01:20,example_electronics,shopping_net,1299.00,Jordan,Lee,F,303 Demo Road,Seattle,WA,98101,47.6062,-122.3321,744955,Designer,47.6150,-122.3400
+2020-02-11 07:05,example_cafe,food_dining,12.40,Casey,Brown,M,404 Practice Lane,Denver,CO,80202,39.7392,-104.9903,715522,Teacher,39.7450,-104.9820
+2020-02-11 12:30,example_pharmacy,health_fitness,46.75,Taylor,Davis,F,505 Training Drive,Boston,MA,2108,42.3601,-71.0589,675647,Nurse,42.3520,-71.0640
+2020-02-11 16:55,example_fuel,gas_transport,63.20,Morgan,Wilson,M,606 Model Court,Phoenix,AZ,85004,33.4484,-112.0740,1680992,Driver,33.4600,-112.0810
+2020-02-11 21:10,example_restaurant,food_dining,118.90,Riley,Martinez,F,707 Fixture Way,Miami,FL,33101,25.7617,-80.1918,455924,Manager,25.7750,-80.2050
+2020-02-12 00:45,example_travel,travel,742.30,Cameron,Anderson,M,808 Prototype Place,Portland,OR,97205,45.5152,-122.6784,652503,Consultant,45.5900,-122.7400
+2020-02-12 10:25,example_books,shopping_pos,35.60,Avery,Thomas,F,909 Template Boulevard,Chicago,IL,60601,41.8781,-87.6298,2746388,Writer,41.8840,-87.6200
+2020-02-12 23:50,example_jewelry,shopping_net,2150.00,Quinn,Moore,F,1000 Sandbox Street,New York,NY,10001,40.7128,-74.0060,8336817,Architect,40.7300,-73.9800
